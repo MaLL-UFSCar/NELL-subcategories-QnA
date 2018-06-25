@@ -4,6 +4,7 @@ import subprocess
 import pandas as pd
 import json
 
+
 def getCategoriesList():
     process = subprocess.call(['java', '-jar', 'zenodotus.jar', '-gcl','-s','r.json'])
     
@@ -36,10 +37,18 @@ def getCategory(predicate):
         category_instances = pd.DataFrame(jsr["category_instances"])
         metadata = pd.DataFrame(jsr["metadata"])
         
-        return category_name,link,category_prologue,category_instances,metadata
-        
+        dic = {'category_name':category_name,'link':link,'category_prologue':category_prologue,
+               'category_instances':category_instances,'metadata':metadata}
     except:
-        return None,None,None,None,None
-    
+        dic = {'category_name':None,'link':None,'category_prologue':None,
+               'category_instances':None,'metadata':None}
     
     process = subprocess.call(["rm", "r.json"])
+    return dic
+
+def isCategory(word):
+    result = 'no'
+    cat = getCategory(word)
+    if(cat['category_name'] is not None): 
+        result = 'yes'
+    return result

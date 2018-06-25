@@ -7,6 +7,14 @@
 import nltk
 from nltk.corpus import stopwords
 
+def clear(np):
+    cnp = []
+    for item in np:
+        if(len(item)>1):
+            cnp.append(item)
+    return cnp
+
+
 def extract(text):
 
     sentence_re = r'(?:(?:[A-Z])(?:.[A-Z])+.?)|(?:\w+(?:-\w+)*)|(?:\$?\d+(?:.\d+)?%?)|(?:...|)(?:[][.,;"\'?():-_`])'
@@ -60,3 +68,5 @@ def extract(text):
     
     return nps
 
+def extract_cleanned(text):
+    return clear(extract(text))
