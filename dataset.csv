@@ -1,0 +1,883 @@
+,sentence,word,nell_category,word_tag,nell_category_tag,word_is_category,distance_from_category,number_of_occurrences,is_category_candidate
+0,Bad rap actors good rap actors list?,bad,actor,JJ,NNS,no,2,3,
+1,Bad rap actors good rap actors list?,rap,actor,NN,NNS,no,1,2,
+2,Bad rap actors good rap actors list?,good,actor,JJ,NNS,no,1,11,
+3,Bad rap actors good rap actors list?,rap,actor,NN,NNS,no,1,2,
+4,Bad rap actors good rap actors list?,list,actor,NN,NNS,no,4,7,
+5,list of hispanic actors?,hispanic,actor,JJ,NNS,no,1,4,
+6,Who are a and b list actors?,list,actor,NN,NNS,no,1,7,
+7,List of famous black actors?,famous,actor,JJ,NNS,no,2,10,
+8,List of famous black actors?,black,actor,JJ,NNS,no,1,7,
+9,How many nerdy/geeky actors can you list?,many,actor,JJ,NNS,no,2,3,
+10,How many nerdy/geeky actors can you list?,nerdy,actor,nan,NNS,no,8,2,
+11,How many nerdy/geeky actors can you list?,geeky,actor,nan,NNS,no,8,2,
+12,Can anyone give me a list of good actors?,good,actor,JJ,NNS,no,1,11,
+13,Give me a list of attractive iranian actors.?,attractive,actor,JJ,NNS,no,2,2,
+14,Give me a list of attractive iranian actors.?,iranian,actor,JJ,NNS,no,1,1,
+15,A-list actors or character actors?,a-list,actor,JJ,NNS,no,1,2,
+16,A-list actors or character actors?,character,actor,NN,NNS,no,2,2,
+17,List of comic actors?,comic,actor,JJ,NNS,no,1,1,
+18,Can some give me a list of Black Martial artist actors ?,black,actor,JJ,NNS,no,3,7,
+19,Can some give me a list of Black Martial artist actors ?,martial,actor,JJ,NNS,no,2,1,
+20,Can some give me a list of Black Martial artist actors ?,artist,actor,NN,NNS,no,1,1,
+21,List some hot young actors?,hot,actor,JJ,NNS,no,2,3,
+22,List some hot young actors?,young,actor,JJ,NNS,no,1,15,
+23,"Cute, young male actor for a character list?",young,male,JJ,NN,no,1,2,
+24,"Cute, young male actor for a character list?",actor,male,NN,NN,yes,1,18,
+25,"Cute, young male actor for a character list?",young,actor,JJ,NN,no,2,15,
+26,"Cute, young male actor for a character list?",male,actor,NN,NN,yes,1,18,
+27,Where can i find a list to identify tv ad actors?,tv,actor,NN,NNS,no,2,1,
+28,Where can i find a list to identify tv ad actors?,ad,actor,NN,NNS,no,1,1,
+29,MALE ACTORS HOT LIST?, act,male,nan,JJ,no,5,1,
+30,MALE ACTORS HOT LIST?,ors hot list,male,nan,JJ,no,5,1,
+31,Scottish actors???????,scottish,actor,JJ,NNS,no,1,3,
+32,Hispanic actors?,hispanic,actor,JJ,NNS,no,1,4,
+33,Can you list top 5 Korean actor and actress that is hot right now?,top,actor,JJ,NN,no,3,2,
+34,Can you list top 5 Korean actor and actress that is hot right now?, 5 k,actor,nan,NN,no,15,1,
+35,Can you list top 5 Korean actor and actress that is hot right now?,orean,actor,nan,NN,no,15,1,
+36,Can someone help me with a list of famous German actors?,famous,actor,JJ,NNS,no,2,10,
+37,Can someone help me with a list of famous German actors?,german,actor,JJ,NNS,no,1,1,
+38,I am looking for a list of Bollywood actors?,bollywood,actor,NN,NNS,no,1,5,
+39,"
+List of teen male actors?",teen,male,JJ,JJ,no,1,3,
+40,"
+List of teen male actors?",actor,male,NNS,JJ,yes,1,18,
+41,"
+List of teen male actors?",teen,actor,JJ,NNS,no,2,5,
+42,"
+List of teen male actors?",male,actor,JJ,NNS,yes,1,18,
+43,"Most complete list of male actors that act stupid ie. jerry lewis, jack tripper, fred flintstone,?",actor,male,NNS,JJ,yes,1,18,
+44,"Most complete list of male actors that act stupid ie. jerry lewis, jack tripper, fred flintstone,?",male,actor,JJ,NNS,yes,1,18,
+45,List of young korean actors?,young,actor,JJ,NNS,no,2,15,
+46,List of young korean actors?,korean,actor,JJ,NNS,no,1,4,
+47,I'm writing a book and i need a list of brunette actors?,brunette,actor,NN,NNS,no,1,1,
+48,List of English Voice Actors!?,english,actor,JJ,NNS,no,2,3,
+49,List of English Voice Actors!?,voice,actor,NN,NNS,no,1,5,
+50,List of greek and roman actors from 900-600bc?,roman,actor,JJ,NNS,no,1,1,
+51,List of young actors and actresses?,young,actor,JJ,NNS,no,1,15,
+52,"
+Any cute korean actors?",cute,actor,JJ,NNS,no,2,2,
+53,"
+Any cute korean actors?",korean,actor,JJ,NNS,no,1,4,
+54,"A-list,b-list, and c-list actors?",c-list,actor,JJ,NNS,no,1,2,
+55,A list of GOOD black actors and actresses?, goo,actor,nan,NNS,no,9,1,
+56,A list of GOOD black actors and actresses?,black,actor,JJ,NNS,no,1,7,
+57,I need help in finding a listing of all of the gay actors either in movies or on tv. This is for a group proj,gay,actor,NN,NNS,no,1,4,
+58,Can someone give me a list of independent movies with big name actors?,independent,movie,JJ,NNS,no,1,1,
+59,Can someone give me a list of independent movies with big name actors?,big,actor,JJ,NNS,no,2,1,
+60,Can someone give me a list of independent movies with big name actors?,name,actor,NN,NNS,no,1,2,
+61,Can you give me a list of some young Korean actors?,young,actor,JJ,NNS,no,2,15,
+62,Can you give me a list of some young Korean actors?,korean,actor,JJ,NNS,no,1,4,
+63,Can i have a small list of most elite bollywood actors and actresses?,elite,actor,JJ,NNS,no,2,1,
+64,Can i have a small list of most elite bollywood actors and actresses?,bollywood,actor,NN,NNS,no,1,5,
+65,Do you Know List of muslim actors in Bollywood?,muslim,actor,JJ,NNS,no,1,1,
+66,Can you give me a big list of famous actors and actresses of the year through 1945 to 1999?,famous,actor,JJ,NNS,no,1,10,
+67,A list of Hollywood/Broadway actors college?,hollywood,actor,nan,NNS,no,7,3,
+68,A list of Hollywood/Broadway actors college?,broadway,actor,nan,NNS,no,7,1,
+69,A list of Hollywood/Broadway actors college?,college,actor,NN,NNS,no,1,1,
+70,I need a list of actors/actresses that fit these descriptions?,actress,actor,nan,nan,no,11,8,
+71,List of animes who have English voice actors?,english,actor,JJ,NNS,no,2,3,
+72,List of animes who have English voice actors?,voice,actor,NN,NNS,no,1,5,
+73,List of animes who have English voice actors?,english,actor,JJ,NNS,no,2,3,
+74,List of animes who have English voice actors?,voice,actor,NN,NNS,no,1,5,
+75,Can someone make a list of top 20 male actors who have gotten fat in 2007?,actor,male,NNS,JJ,yes,1,18,
+76,Can someone make a list of top 20 male actors who have gotten fat in 2007?,male,actor,JJ,NNS,yes,1,18,
+77,List of male/female actors?,female,male,nan,nan,yes,5,1,
+78,List of male/female actors?,actor,male,NNS,nan,yes,5,18,
+79,List of male/female actors?,male,actor,nan,NNS,yes,5,18,
+80,List of male/female actors?,female,actor,nan,NNS,yes,5,4,
+81,List of male/female actors?,male,female,nan,nan,yes,5,1,
+82,List of male/female actors?,actor,female,NNS,nan,yes,5,4,
+83,I need a list of 15-19 year old actors?,15-19,actor,JJ,NNS,no,3,1,
+84,I need a list of 15-19 year old actors?,year,actor,NN,NNS,yes,2,5,
+85,I need a list of 15-19 year old actors?,old,actor,JJ,NNS,no,1,8,
+86,I need a list of 15-19 year old actors?,15-19,year,JJ,NN,no,1,1,
+87,I need a list of 15-19 year old actors?,old,year,JJ,NN,no,1,6,
+88,I need a list of 15-19 year old actors?,actor,year,NNS,NN,yes,2,5,
+89,Current 13 year old actors?,year,actor,NN,NNS,yes,2,5,
+90,Current 13 year old actors?,old,actor,JJ,NNS,no,1,8,
+91,Current 13 year old actors?,old,year,JJ,NN,no,1,6,
+92,Current 13 year old actors?,actor,year,NNS,NN,yes,2,5,
+93,Name actors and actresses who...?,name,actor,NN,NNS,no,1,2,
+94,Do you know any male B-list actors?,b-list,male,JJ,JJ,no,1,2,
+95,Do you know any male B-list actors?,actor,male,NNS,JJ,yes,2,18,
+96,Do you know any male B-list actors?,male,actor,JJ,NNS,yes,2,18,
+97,Do you know any male B-list actors?,b-list,actor,JJ,NNS,no,1,3,
+98,"Buff Actors, Redhead Actresses?",buff,actor,NN,NNS,no,1,2,
+99,Badass old men actors?,badass,actor,NN,NNS,no,3,2,
+100,Badass old men actors?,old,actor,JJ,NNS,no,2,8,
+101,Badass old men actors?,men,actor,NNS,NNS,no,1,2,
+102,Can you please give me a small list of Popular Actors & Movies that are out right now?,popular,actor,JJ,NNS,no,1,1,
+103,Teenage Male Actor w/ blonde hair list?,actor,male,NN,NN,yes,1,18,
+104,Teenage Male Actor w/ blonde hair list?,male,actor,NN,NN,yes,1,18,
+105,Can you give a list of female voice actors who do male roles?,female,actor,JJ,NNS,yes,2,4,
+106,Can you give a list of female voice actors who do male roles?,voice,actor,NN,NNS,no,1,5,
+107,Can you give a list of female voice actors who do male roles?,voice,female,NN,JJ,no,1,1,
+108,Can you give a list of female voice actors who do male roles?,actor,female,NNS,JJ,yes,2,4,
+109,Can you give a list of female voice actors who do male roles?,role,male,NNS,JJ,no,1,1,
+110,A list of more TEENAGE actors with brown hair?, tee,actor,nan,NNS,no,10,1,
+111,A list of more TEENAGE actors with brown hair?,nage,actor,nan,NNS,no,10,1,
+112,"Where can I find a list of notable actors that have performed in the Broadway musical ""Little Me""?",notable,actor,JJ,NNS,no,1,2,
+113,List of actors/actresses who deserve an oscar or nomination?,actress,actor,nan,nan,no,10,8,
+114,I need a list of short Actors?,short,actor,JJ,NNS,no,1,1,
+115,A List of Red Headed Actors?,red,actor,JJ,NNS,no,2,1,
+116,A List of Red Headed Actors?,headed,actor,VBN,NNS,no,1,1,
+117,I want a list of Hollywood Actors and actresses.?,hollywood,actor,NN,NNS,no,1,3,
+118,A list of blonde actors who can sing?,blonde,actor,JJ,NNS,no,1,2,
+119,Can anyone give me a list of actors/actresses who have college degrees?,actress,actor,nan,nan,no,13,8,
+120,an someone list for me famous male spanish actors?,famous,male,JJ,JJ,no,1,3,
+121,an someone list for me famous male spanish actors?,spanish,male,JJ,JJ,no,1,2,
+122,an someone list for me famous male spanish actors?,actor,male,NNS,JJ,yes,2,18,
+123,an someone list for me famous male spanish actors?,famous,actor,JJ,NNS,no,3,10,
+124,an someone list for me famous male spanish actors?,male,actor,JJ,NNS,yes,2,18,
+125,an someone list for me famous male spanish actors?,spanish,actor,JJ,NNS,no,1,1,
+126,List of prominent actors of the 50's?,prominent,actor,JJ,NNS,no,1,1,
+127,List of teenage guy actors?,teenage,actor,NN,NNS,no,2,6,
+128,List of teenage guy actors?,guy,actor,NN,NNS,no,1,2,
+129,Teenage Guy Actors,teenage,actor,NN,NNS,no,2,6,
+130,Teenage Guy Actors,guy,actor,NN,NNS,no,1,2,
+131,"Can any one list some really hot younger male famous people(actors,bmxers,skatboard... ect. )?",famous,male,JJ,JJ,no,1,3,
+132,"Can any one list some really hot younger male famous people(actors,bmxers,skatboard... ect. )?",people,male,NNS,JJ,no,2,2,
+133,Need list of male toddler actors....?,toddler,male,NN,JJ,no,1,2,
+134,Need list of male toddler actors....?,actor,male,NNS,JJ,yes,2,18,
+135,Need list of male toddler actors....?,male,actor,JJ,NNS,yes,2,18,
+136,Need list of male toddler actors....?,toddler,actor,NN,NNS,no,1,2,
+137,Can you give me a list of teenage/child actors?,teenage,actor,nan,NNS,no,10,6,
+138,Can you give me a list of teenage/child actors?,child,actor,nan,NNS,no,10,3,
+139,A List of 12 year old girl actors?,year,actor,NN,NNS,yes,3,5,
+140,A List of 12 year old girl actors?,old,actor,JJ,NNS,no,2,8,
+141,A List of 12 year old girl actors?,girl,actor,NN,NNS,no,1,1,
+142,A List of 12 year old girl actors?,old,year,JJ,NN,no,1,6,
+143,A List of 12 year old girl actors?,girl,year,NN,NN,no,2,2,
+144,A List of 12 year old girl actors?,actor,year,NNS,NN,yes,3,5,
+145,Anyone know gay actors? (male)?,gay,actor,NN,NNS,no,1,4,
+146,I need a list of actors/actresses!?,actress,actor,nan,nan,no,8,8,
+147,A List of CSI Las Vegas Actors that Died or Left the Show?, csi,actor,nan,NNS,no,14,1,
+148,A List of CSI Las Vegas Actors that Died or Left the Show?,la,actor,NNS,NNS,no,2,1,
+149,A List of CSI Las Vegas Actors that Died or Left the Show?,vega,actor,VBP,NNS,no,1,1,
+150,Can I have a list of 12 or 13 year old famous actors ?,year,actor,NN,NNS,yes,3,5,
+151,Can I have a list of 12 or 13 year old famous actors ?,old,actor,JJ,NNS,no,2,8,
+152,Can I have a list of 12 or 13 year old famous actors ?,famous,actor,JJ,NNS,no,1,10,
+153,Can I have a list of 12 or 13 year old famous actors ?,old,year,JJ,NN,no,1,6,
+154,Can I have a list of 12 or 13 year old famous actors ?,famous,year,JJ,NN,no,2,1,
+155,Can I have a list of 12 or 13 year old famous actors ?,actor,year,NNS,NN,yes,3,5,
+156,List of iconic actors or actresses.?,iconic,actor,JJ,NNS,no,1,2,
+157,List of male teen actors???10 points!!!?,teen,male,JJ,NN,no,1,3,
+158,List of male teen actors???10 points!!!?,actor,male,NNS,NN,yes,2,18,
+159,List of male teen actors???10 points!!!?,male,actor,NN,NNS,yes,2,18,
+160,List of male teen actors???10 points!!!?,teen,actor,JJ,NNS,no,1,5,
+161,List any well known African American actors/actresses of the 1950s?,african,actor,JJ,nan,no,11,1,
+162,List any well known African American actors/actresses of the 1950s?,american,actor,JJ,nan,no,11,1,
+163,List any well known African American actors/actresses of the 1950s?,actress,actor,nan,nan,no,11,8,
+164,List of funniest actors and actresses in America?,funniest,actor,JJ,NNS,no,1,1,
+165,A list of young female teen actors?,young,actor,JJ,NNS,no,3,15,
+166,A list of young female teen actors?,female,actor,NN,NNS,yes,2,4,
+167,A list of young female teen actors?,teen,actor,JJ,NNS,no,1,5,
+168,A list of young female teen actors?,young,female,JJ,NN,no,1,2,
+169,A list of young female teen actors?,teen,female,JJ,NN,no,1,2,
+170,A list of young female teen actors?,actor,female,NNS,NN,yes,2,4,
+171,Can you give me a list of black haired actors?,black,actor,JJ,NNS,no,2,7,
+172,Can you give me a list of black haired actors?,haired,actor,JJ,NNS,no,1,1,
+173,"Can someone give me a list of Catholic actors, singers, and sports figures?",catholic,actor,JJ,NNS,no,1,3,
+174,"Can someone give me a list of Catholic actors, singers, and sports figures?",figure,sport,NNS,NNS,no,1,3,
+175,List of 10 most famous actors or actresses in Canada?,famous,actor,JJ,NNS,no,1,10,
+176,White actors with black ethnicity?,white,actor,JJ,NNS,no,1,3,
+177,Can U plz list the name of the bollywood actors who are supposedly gay??,bollywood,actor,NN,NNS,no,1,5,
+178,Where can I find a website that lists the different actors that were supposed to star in movies but didn't?,different,actor,JJ,NNS,no,1,1,
+179,List actors who died in their 20s or 30s and 40s?,list,actor,NN,NNS,no,1,7,
+180,I need a list of good young actors & actresses. Please & thank you?,good,actor,JJ,NNS,no,2,11,
+181,I need a list of good young actors & actresses. Please & thank you?,young,actor,JJ,NNS,no,1,15,
+182,I need a list of good young actors & actresses. Please & thank you?,actress,actor,NNS,NNS,no,2,8,
+183,ist down 5 or more top actor or model (men only) that you like and give your reason?,top,actor,JJ,NN,no,1,2,
+184,"How can I find a list of deceased actors from AMC, GH, & OLTL that spans the last 40 years?",deceased,actor,JJ,NNS,no,1,1,
+185,List of Young Actors/Singers?,young,actor,JJ,nan,no,5,15,
+186,List of Young Actors/Singers?,singer,actor,nan,nan,no,5,1,
+187,List of attractive male actors under the age of 21?,attractive,male,JJ,JJ,no,1,1,
+188,List of attractive male actors under the age of 21?,actor,male,NNS,JJ,yes,1,18,
+189,List of attractive male actors under the age of 21?,attractive,actor,JJ,NNS,no,2,2,
+190,List of attractive male actors under the age of 21?,male,actor,JJ,NNS,yes,1,18,
+191,Where can someone find a list or directory of legitimate agents for actors in NYC?,legitimate,agent,JJ,NNS,no,1,1,
+192,YOUNG FAMOUS ACTORS! For a book report?,report,book,NN,NN,no,1,1,
+193,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",bad,actor,JJ,NNS,no,1,3,
+194,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",good,movie,JJ,NN,no,1,1,
+195,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",great,actor,JJ,NNS,no,68,2,
+196,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",great,actor,JJ,NNS,no,68,2,
+197,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",good,actor,JJ,NNS,no,7,11,
+198,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",bad,actor,JJ,NNS,no,1,3,
+199,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",ja,actor,NN,NNS,no,208,1,
+200,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",rule,actor,NN,NNS,no,209,1,
+201,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list","
+
+m",actor,nan,NNS,no,240,1,
+202,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",favorite,actor,JJ,NNS,no,211,2,
+203,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",good,actor,JJ,NNS,no,7,11,
+204,"Overall most rappers makes bad actors. I think ATL was a good movie but i wish they would have replace T.I.P character because personally I think he mested up some scenes.Like this scene at the bottom. 
+
+http://www.youtube.com/watch?v=B4SGekZDglM 
+
+
+Yeah he did good in alot of scene only because he was acting himself but the emotional scenes kinda exposed him. Lauren London and the other actors did a great job but T.I, it felt like he was talking off the wall at time. Any body can act themselves don,t me your a great actor. Tupac,s a great actor because he started his career as a actor unlike cam,ron who acts his self in all his film. feel free to correct me if i,m wrong. 
+
+good actors 
+2pac, bow wow, methodman, ludacris, Queen Latifah, Will Smith, Mark 'Marky Mark' Wahlberg, andre 3000 
+
+
+bad actors 
+t.i.p, cam,ron snoop dogg, ice t, Eminem, the hole dipset, the hole rockafella. master p, lil romeo, (chris brown beyonce) singer, nas, dmx, damon dash, 50 cent, ja rule 
+
+My favorite actor is Don Cheadle Larenz Tate and Shia LaBeouf 
+
+Update: yeah i forgot mos def yeah hes on my good actors list",list,actor,NN,NNS,no,234,7,
+205,what website can you find a list of hispanic actors??????????????????????????????????...,hispanic,actor,JJ,NNS,no,1,4,
+206,and i dont mean musicians or athletes. I just wanna know the a and b list actors. thanks!,dont,musician,JJ,NNS,no,2,1,
+207,and i dont mean musicians or athletes. I just wanna know the a and b list actors. thanks!,mean,musician,JJ,NNS,no,1,1,
+208,and i dont mean musicians or athletes. I just wanna know the a and b list actors. thanks!,list,actor,NN,NNS,no,1,7,
+209,can you please give me a list of the most famous black actors?,famous,actor,JJ,NNS,no,2,10,
+210,can you please give me a list of the most famous black actors?,black,actor,JJ,NNS,no,1,7,
+211,How many nerdy/geeky actors can you list?,many,actor,JJ,NNS,no,2,3,
+212,How many nerdy/geeky actors can you list?,nerdy,actor,nan,NNS,no,8,2,
+213,How many nerdy/geeky actors can you list?,geeky,actor,nan,NNS,no,8,2,
+214,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",good,actor,JJ,NNS,no,4,11,
+215,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",handsome,actor,nan,NNS,no,20,1,
+216,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",beautiful,actor,nan,NNS,no,20,1,
+217,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.", a v,movie,nan,NN,no,20,1,
+218,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",ery ,movie,nan,NN,no,20,1,
+219,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",debatable,movie,JJ,NN,no,1,1,
+220,"I want a list of good ""handsome/beautiful"" actors for a list of a VERY debatable movie series.",series,movie,NN,NN,no,1,1,
+221,I need a list of OFFICIAL MYSPACE PAGES of actors and film directors or producers.,film,director,NN,NNS,no,1,1,
+222,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",several,actor,JJ,NNS,no,2,1,
+223,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",a-list,actor,JJ,NNS,no,1,2,
+224,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",character,actor,JJ,NNS,no,50,2,
+225,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",big,movie,JJ,NN,no,2,1,
+226,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",time,movie,NN,NN,yes,1,1,
+227,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",star,movie,NNS,NN,no,1,1,
+228,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",big,time,JJ,NN,no,1,1,
+229,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",movie,time,NN,NN,yes,1,1,
+230,"There are several A-list actors I really can't stand or just can't act to save their lives. Halle Berry and Jennifer Lopez can't act. I'm not sold on Brad Pitt and his acting. I'm not keen on Tom Cruise or Orlando Bloom. 
+
+But there are character actors that seem to hold their own against the big time movie stars, who I think act better than those mentioned above. 
+
+Bruce McGill is good. Also Rene Auberjonois, Robert Guillaume, Chris Sarandon, Ernie Hudson, Terry O'Quinn, Alfre Woodard, John de Lancie just to name a few",star,time,NNS,NN,no,2,1,
+231,actors like blakc guy in the Bruce lee movie or Taimak in last dragon,bruce,movie,NN,NN,no,2,1,
+232,actors like blakc guy in the Bruce lee movie or Taimak in last dragon,lee,movie,JJ,NN,no,1,1,
+233,"Is there a list of all the Scottish actors? 
+
+BQ: Who's your favorite Scottish actor?",scottish,actor,JJ,NN,no,10,3,
+234,"Is there a list of all the Scottish actors? 
+
+BQ: Who's your favorite Scottish actor?",favorite,actor,JJ,NN,no,2,2,
+235,"Is there a list of all the Scottish actors? 
+
+BQ: Who's your favorite Scottish actor?",scottish,actor,JJ,NN,no,10,3,
+236,"any hot hispanic actors today? 
+please list :)",hot,actor,JJ,NNS,no,2,3,
+237,"any hot hispanic actors today? 
+please list :)",hispanic,actor,JJ,NNS,no,1,4,
+238,"any hot hispanic actors today? 
+please list :)",today,actor,NN,NNS,no,1,1,
+239,I am looking for a list of Bollywood actors?,bollywood,actor,NN,NNS,no,1,5,
+240,"So, I need a list of teen male actors, or in their twenties, preferably with dark hair. 
+Thanks",teen,male,JJ,JJ,no,1,3,
+241,"So, I need a list of teen male actors, or in their twenties, preferably with dark hair. 
+Thanks",actor,male,NNS,JJ,yes,1,18,
+242,"So, I need a list of teen male actors, or in their twenties, preferably with dark hair. 
+Thanks",teen,actor,JJ,NNS,no,2,5,
+243,"So, I need a list of teen male actors, or in their twenties, preferably with dark hair. 
+Thanks",male,actor,JJ,NNS,yes,1,18,
+244,"Most complete list of male actors that act stupid ie. jerry lewis, jack tripper, fred flintstone,?",actor,male,NNS,JJ,yes,1,18,
+245,"Most complete list of male actors that act stupid ie. jerry lewis, jack tripper, fred flintstone,?",male,actor,JJ,NNS,yes,1,18,
+246,And by young actors i mean 30 and under a list please! Thanks :) and it HAS to be KOREAN ACTORS,young,actor,JJ,NNS,no,1,15,
+247,Who are the ENGLISH voice actors of Tales of The World: Radiant Mythology? GIMME THE LIST FOR POINTS!, eng,actor,nan,NNS,no,22,1,
+248,Who are the ENGLISH voice actors of Tales of The World: Radiant Mythology? GIMME THE LIST FOR POINTS!,lish,actor,nan,NNS,no,22,1,
+249,Who are the ENGLISH voice actors of Tales of The World: Radiant Mythology? GIMME THE LIST FOR POINTS!,voice,actor,NN,NNS,no,1,5,
+250,I need a list of greek actors from 900-600bc and roman actirs from 900-600bc,greek,actor,JJ,NNS,no,1,1,
+251,"Any actors/actresses in their teens and twenties please! No people disney channel, nickelodeon, and other kids shows/movies :) other tv shows and movies are fine. give as many or as little as you want! thanks!",actress,actor,nan,nan,no,42,8,
+252,"LOL just wondering if i missed out in some really cute korean actors:) 
+
+my type: 
+g-dragon 
+hyun joong 
+jang geun sook 
+choi si won 
+everyone in DBSK 
+almost everyone in suju 
+umm 
+almost every member of FT Island 
+any similar cuties??:) 
+
+g-dragon=my husband:))",cute,actor,JJ,NNS,no,2,2,
+253,"LOL just wondering if i missed out in some really cute korean actors:) 
+
+my type: 
+g-dragon 
+hyun joong 
+jang geun sook 
+choi si won 
+everyone in DBSK 
+almost everyone in suju 
+umm 
+almost every member of FT Island 
+any similar cuties??:) 
+
+g-dragon=my husband:))",korean,actor,JJ,NNS,no,1,4,
+254,"LOL just wondering if i missed out in some really cute korean actors:) 
+
+my type: 
+g-dragon 
+hyun joong 
+jang geun sook 
+choi si won 
+everyone in DBSK 
+almost everyone in suju 
+umm 
+almost every member of FT Island 
+any similar cuties??:) 
+
+g-dragon=my husband:))",ft,island,JJ,NN,no,1,1,
+255,"anyone know of a website that lists all the a-list,b-list, and possibly c-list actors?",c-list,actor,JJ,NNS,no,1,2,
+256,I know of certen actors who are now a Sir or Dame but am having trouble finding a web site with a list of names.,certen,actor,JJ,NNS,no,1,1,
+257,cans someone give me a list of good black actors and actresses thanks!,good,actor,JJ,NNS,no,2,11,
+258,cans someone give me a list of good black actors and actresses thanks!,black,actor,JJ,NNS,no,1,7,
+259,i need help in finding a listing of all of the gay actors either in movies or on tv. This is for a group project in school.,gay,actor,NN,NNS,no,1,4,
+260,"- A girl that is skinny and pale, with long, straight black hair. 
+- A boy that's pretty tall, with dirty-blonde, usually messy hair. 
+- A girl that maintains a preppy and well put-together look. She always wears her long, blonde curls in a sleek ponytail, topped off with an enormous bow. 
+
+All of these characters are pre-teens or young teenagers. Thanks! :)
+
+Update: No, I'm not writing a fan-fic! This is for a book project.",project,book,NN,NN,no,1,1,
+261,"I hate reading subtitles, and am unable to understand the Japanese language. Please be so kind as to list the ones you know of! The only anime I have watched is Inuyasha :P",japanese,language,JJ,NN,no,1,2,
+262,"I hate reading subtitles, and am unable to understand the Japanese language. Please be so kind as to list the ones you know of! The only anime I have watched is Inuyasha :P",japanese,language,JJ,NN,no,1,2,
+263,"I need a few examples of female and male actors under 25 and over 16 with brown hair and brown eyes, anyone help?",actor,male,NNS,JJ,yes,1,18,
+264,"I need a few examples of female and male actors under 25 and over 16 with brown hair and brown eyes, anyone help?",male,actor,JJ,NNS,yes,1,18,
+265,"Who are some ""good"" Actors that are not as well known, but but should be???",good,actor,JJ,NNS,no,2,11,
+266,I need a list of ages 15 through 19 year old actors with spiky brown hair down to the eyes and full brown eyes,year,actor,NN,NNS,yes,2,5,
+267,I need a list of ages 15 through 19 year old actors with spiky brown hair down to the eyes and full brown eyes,old,actor,JJ,NNS,no,1,8,
+268,I need a list of ages 15 through 19 year old actors with spiky brown hair down to the eyes and full brown eyes,old,year,JJ,NN,no,1,6,
+269,I need a list of ages 15 through 19 year old actors with spiky brown hair down to the eyes and full brown eyes,actor,year,NNS,NN,yes,2,5,
+270,"Many famous actors seen on the big screen today started off from the most unlikeliest of careers. 
+
+Most were stand up comedians, musicians, sports icons, and models. List actors from each of these fields and in your opinion, which field is the best in producing the best actors in Hollywood today? 
+
+What may have motivated these guys from leaving their field and pursue an acting career instead?",many,actor,JJ,NNS,no,2,3,
+271,"Many famous actors seen on the big screen today started off from the most unlikeliest of careers. 
+
+Most were stand up comedians, musicians, sports icons, and models. List actors from each of these fields and in your opinion, which field is the best in producing the best actors in Hollywood today? 
+
+What may have motivated these guys from leaving their field and pursue an acting career instead?",famous,actor,JJ,NNS,no,1,10,
+272,"Many famous actors seen on the big screen today started off from the most unlikeliest of careers. 
+
+Most were stand up comedians, musicians, sports icons, and models. List actors from each of these fields and in your opinion, which field is the best in producing the best actors in Hollywood today? 
+
+What may have motivated these guys from leaving their field and pursue an acting career instead?",icon,sport,NNS,NNS,no,1,1,
+273,"Many famous actors seen on the big screen today started off from the most unlikeliest of careers. 
+
+Most were stand up comedians, musicians, sports icons, and models. List actors from each of these fields and in your opinion, which field is the best in producing the best actors in Hollywood today? 
+
+What may have motivated these guys from leaving their field and pursue an acting career instead?",list,actor,NN,NNS,no,30,7,
+274,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,young,male,JJ,JJ,no,1,2,
+275,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,b-list,male,JJ,JJ,no,1,2,
+276,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,actor,male,NNS,JJ,yes,2,18,
+277,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,young,actor,JJ,NNS,no,3,15,
+278,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,male,actor,JJ,NNS,yes,2,18,
+279,Hey i need a short list of young male B-list actors from Britain that are pretty good. It would help if they were good looking and usually do action type films. If you know any please answer :) Would be greatly appreciated xx,b-list,actor,JJ,NNS,no,1,3,
+280,I need a list of young actors and actresses and a list of middle age or old actors and actresses....thats two lists....and please specify which is the young and which is the old....im picking a cast for romeo and juiliet project....do not tell me who you think would make a good romeo or juliet...its my decision =),young,actor,JJ,NNS,no,1,15,
+281,I need a list of young actors and actresses and a list of middle age or old actors and actresses....thats two lists....and please specify which is the young and which is the old....im picking a cast for romeo and juiliet project....do not tell me who you think would make a good romeo or juliet...its my decision =),old,actor,JJ,NNS,no,10,8,
+282,"I need a list of some buff actors. 
+And some red head female actresses.",buff,actor,NN,NNS,no,1,2,
+283,"I need a list of some buff actors. 
+And some red head female actresses.",red,female,JJ,NN,no,2,1,
+284,"I need a list of some buff actors. 
+And some red head female actresses.",head,female,NN,NN,no,1,1,
+285,"I need a list of some buff actors. 
+And some red head female actresses.",actress,female,NNS,NN,no,1,1,
+286,"Hey, gimme a list of badass old men actors.",badass,actor,NN,NNS,no,3,2,
+287,"Hey, gimme a list of badass old men actors.",old,actor,JJ,NNS,no,2,8,
+288,"Hey, gimme a list of badass old men actors.",men,actor,NNS,NNS,no,1,2,
+289,"Thanks,I need it for my babies book. 
+
+& also maybe you can give me a brief answer of popular Cars, Sports Stars, Fashion Trends, thanks",baby,book,NNS,NN,no,1,1,
+290,"Thanks,I need it for my babies book. 
+
+& also maybe you can give me a brief answer of popular Cars, Sports Stars, Fashion Trends, thanks",star,sport,NNS,NNS,no,1,1,
+291,"Hey guys, I am writing a novel and one of the main characters, Blade Zekkler, is supposed to have curly blonde hair, and any color eyes. If you could give me a list of Teenage Male Actors, age 16-19, who fits that description please list it. I'm not looking for really curly blonde hair, but just slightly curly blonde hair. :) THANKS",eye,color,NNS,NN,no,1,1,
+292,"Hey guys, I am writing a novel and one of the main characters, Blade Zekkler, is supposed to have curly blonde hair, and any color eyes. If you could give me a list of Teenage Male Actors, age 16-19, who fits that description please list it. I'm not looking for really curly blonde hair, but just slightly curly blonde hair. :) THANKS",teenage,male,JJ,JJ,no,1,1,
+293,"Hey guys, I am writing a novel and one of the main characters, Blade Zekkler, is supposed to have curly blonde hair, and any color eyes. If you could give me a list of Teenage Male Actors, age 16-19, who fits that description please list it. I'm not looking for really curly blonde hair, but just slightly curly blonde hair. :) THANKS",actor,male,NNS,JJ,yes,1,18,
+294,"Hey guys, I am writing a novel and one of the main characters, Blade Zekkler, is supposed to have curly blonde hair, and any color eyes. If you could give me a list of Teenage Male Actors, age 16-19, who fits that description please list it. I'm not looking for really curly blonde hair, but just slightly curly blonde hair. :) THANKS",teenage,actor,JJ,NNS,no,2,6,
+295,"Hey guys, I am writing a novel and one of the main characters, Blade Zekkler, is supposed to have curly blonde hair, and any color eyes. If you could give me a list of Teenage Male Actors, age 16-19, who fits that description please list it. I'm not looking for really curly blonde hair, but just slightly curly blonde hair. :) THANKS",male,actor,JJ,NNS,yes,1,18,
+296,a need a list of hot actors under 30 ;),hot,actor,JJ,NNS,no,1,3,
+297,"ok here: 
+I do not know much about actors and I thought it would be cool to know them and learn about them. So I am looking online to find a good list with useful summery ( age, some famous movies, and a picture) short so I could learn it very fast. 
+I found 
+http://www.hollywood.com/celebrities/top_celebs_100/s/pu 
+but I need to go one by one, and I am not sure if all of them are real famous. 
+Send my some links. and recommendations. Thanks.",famous,movie,JJ,NNS,no,1,1,
+298,"ok here: 
+I do not know much about actors and I thought it would be cool to know them and learn about them. So I am looking online to find a good list with useful summery ( age, some famous movies, and a picture) short so I could learn it very fast. 
+I found 
+http://www.hollywood.com/celebrities/top_celebs_100/s/pu 
+but I need to go one by one, and I am not sure if all of them are real famous. 
+Send my some links. and recommendations. Thanks.",com,celebrity,nan,nan,no,95,1,
+299,"I am writing a preview for a school's production of the Neil Simon's ""Little Me"" for a newspaper. I know that Sid Ceasar, Victor Garbo, and Martin Short have performed in the play from Wikipedia. Have any other notable actors performed in it? Is there a list somewhere?",notable,actor,JJ,NNS,no,1,2,
+300,"You should be more specific, e.g. about the year. If you are referring to the current year, then actors and actresses are as good as their latest film. Anyway, I didn't find any Oscar-worthy performances to the films I watched so far this year, but this is only reasonable, since the producers release the films they want to promote for Oscar nods near the end of the year...",current,year,JJ,NN,no,8,1,
+301,"5 feet or under. Good Actors, like Danny Divido.",good,actor,JJ,NNS,no,1,11,
+302,"I need a list of the most popular read haired actors. Thanks, and any nicknames for red heads would also be appreciated
+Update: Sorry for not being clearer, but I'm looking for male actors. thanks to all who answered!",actor,male,NNS,JJ,yes,27,18,
+303,"I need a list of the most popular read haired actors. Thanks, and any nicknames for red heads would also be appreciated
+Update: Sorry for not being clearer, but I'm looking for male actors. thanks to all who answered!",male,actor,JJ,NNS,yes,27,18,
+304,"Can any buddy please give me the name list of Hollywood actors and actresses? 
+I need it urgently so please help me.",hollywood,actor,NN,NNS,no,1,3,
+305,This is for a project.. i need a list of blonde actors under 30 who can sing. thank you =],blonde,actor,JJ,NNS,no,1,2,
+306,or famous male spanish people (personalities),famous,male,JJ,JJ,no,1,3,
+307,or famous male spanish people (personalities),spanish,male,JJ,JJ,no,1,2,
+308,or famous male spanish people (personalities),people,male,NNS,JJ,no,2,2,
+309,i wanna get a list of white actors with black decent,white,actor,JJ,NNS,no,1,3,
+310,List of young actors and actresses?,young,actor,JJ,NNS,no,1,15,
+311,Need list of male toddler actors....?,toddler,male,NN,JJ,no,1,2,
+312,Need list of male toddler actors....?,actor,male,NNS,JJ,yes,2,18,
+313,Need list of male toddler actors....?,male,actor,JJ,NNS,yes,2,18,
+314,Need list of male toddler actors....?,toddler,actor,NN,NNS,no,1,2,
+315,What are some young black actors?,young,actor,JJ,NNS,no,2,15,
+316,What are some young black actors?,black,actor,JJ,NNS,no,1,7,
+317,"Not like acting in some roles but went full actor. 
+
+Mark Wahlburg. In the 90's he was Marky Mark 
+http://www.youtube.com/watch?v=-eSN8Cwit_s 
+
+LL Cool J. But he was a decently respectable rapper. 
+http://www.youtube.com/watch?v=vimZj8HW0Kg 
+
+Ice Cube but he was actually really good. NWA and solo career. 
+http://www.youtube.com/watch?v=ViK8PwbJmxo",full,actor,JJ,NN,no,1,1,
+318,"Any teenage/child actor or actress will do. Maybe even younger adult actors. Just please do not give me disney channel stars. Specifically would like... 
+
+A girl with pale blonde (straw blonde?) hair, pale skin, blue (icy blue?) eyes. 
+A girl with very dark brown hair, olive skin, and hazel (green or brown works) eyes. 
+A boy with a similar description as the girl above. 
+A boy with curly, honey blonde hair, blue eyes, and tan skin. 
+A boy with chocolate brown hair, green eyes, and fairish skin. 
+A girl with wavy, long, golden blonde hair, green eyes, fair skin. 
+
+If you cant find these specific descriptions any teenage/child actor will do. 
+THANKS!",teenage,actor,nan,NN,no,145,6,
+319,"Any teenage/child actor or actress will do. Maybe even younger adult actors. Just please do not give me disney channel stars. Specifically would like... 
+
+A girl with pale blonde (straw blonde?) hair, pale skin, blue (icy blue?) eyes. 
+A girl with very dark brown hair, olive skin, and hazel (green or brown works) eyes. 
+A boy with a similar description as the girl above. 
+A boy with curly, honey blonde hair, blue eyes, and tan skin. 
+A boy with chocolate brown hair, green eyes, and fairish skin. 
+A girl with wavy, long, golden blonde hair, green eyes, fair skin. 
+
+If you cant find these specific descriptions any teenage/child actor will do. 
+THANKS!",child,actor,nan,NN,no,145,3,
+320,"Any teenage/child actor or actress will do. Maybe even younger adult actors. Just please do not give me disney channel stars. Specifically would like... 
+
+A girl with pale blonde (straw blonde?) hair, pale skin, blue (icy blue?) eyes. 
+A girl with very dark brown hair, olive skin, and hazel (green or brown works) eyes. 
+A boy with a similar description as the girl above. 
+A boy with curly, honey blonde hair, blue eyes, and tan skin. 
+A boy with chocolate brown hair, green eyes, and fairish skin. 
+A girl with wavy, long, golden blonde hair, green eyes, fair skin. 
+
+If you cant find these specific descriptions any teenage/child actor will do. 
+THANKS!",adult,actor,NN,NN,no,9,1,
+321,"Any teenage/child actor or actress will do. Maybe even younger adult actors. Just please do not give me disney channel stars. Specifically would like... 
+
+A girl with pale blonde (straw blonde?) hair, pale skin, blue (icy blue?) eyes. 
+A girl with very dark brown hair, olive skin, and hazel (green or brown works) eyes. 
+A boy with a similar description as the girl above. 
+A boy with curly, honey blonde hair, blue eyes, and tan skin. 
+A boy with chocolate brown hair, green eyes, and fairish skin. 
+A girl with wavy, long, golden blonde hair, green eyes, fair skin. 
+
+If you cant find these specific descriptions any teenage/child actor will do. 
+THANKS!",teenage,actor,nan,NN,no,145,6,
+322,"Any teenage/child actor or actress will do. Maybe even younger adult actors. Just please do not give me disney channel stars. Specifically would like... 
+
+A girl with pale blonde (straw blonde?) hair, pale skin, blue (icy blue?) eyes. 
+A girl with very dark brown hair, olive skin, and hazel (green or brown works) eyes. 
+A boy with a similar description as the girl above. 
+A boy with curly, honey blonde hair, blue eyes, and tan skin. 
+A boy with chocolate brown hair, green eyes, and fairish skin. 
+A girl with wavy, long, golden blonde hair, green eyes, fair skin. 
+
+If you cant find these specific descriptions any teenage/child actor will do. 
+THANKS!",child,actor,nan,NN,no,145,3,
+323,"I need a list of 12-13 year old girl actress. 
+Mosty someones with dark hair but blondes are ok to. 
+Someone help please!!!",12-13,year,JJ,NN,no,1,1,
+324,"I need a list of 12-13 year old girl actress. 
+Mosty someones with dark hair but blondes are ok to. 
+Someone help please!!!",old,year,JJ,NN,no,1,6,
+325,"I need a list of 12-13 year old girl actress. 
+Mosty someones with dark hair but blondes are ok to. 
+Someone help please!!!",girl,year,NN,NN,no,2,2,
+326,"I need a list of 12-13 year old girl actress. 
+Mosty someones with dark hair but blondes are ok to. 
+Someone help please!!!",actress,year,NN,NN,no,3,1,
+327,I just want a complete list of gay actors! The more the better! THANKS,gay,actor,JJ,NNS,no,1,4,
+328,"I'm doing a project on iconic historical actors or actresses. So far I've got Marilyn Monroe, Audrey Hepburn, and I wanna put in Charlie Chaplin as well but the time frames a bit iffy. 
+I found a picture for iconic, old-hollywood type actresses, but I can't make out who they are. Can someone please give me the names to the actresses in this picture? http://www.pinterest.com/pin/22940279323935660/",iconic,actor,JJ,NNS,no,2,2,
+329,"I'm doing a project on iconic historical actors or actresses. So far I've got Marilyn Monroe, Audrey Hepburn, and I wanna put in Charlie Chaplin as well but the time frames a bit iffy. 
+I found a picture for iconic, old-hollywood type actresses, but I can't make out who they are. Can someone please give me the names to the actresses in this picture? http://www.pinterest.com/pin/22940279323935660/",historical,actor,JJ,NNS,no,1,1,
+330,Update: fairly young actors with white hair like not over 50 atleast thanks,young,actor,JJ,NNS,no,1,15,
+331,"I'm looking for a list of documentaries that have had major actors/actresses in them. 
+
+I don't know if there is a comprehensive list or not, but if you know of some that'd be great too. 
+
+Thanks",major,actor,JJ,nan,no,42,1,
+332,"I'm looking for a list of documentaries that have had major actors/actresses in them. 
+
+I don't know if there is a comprehensive list or not, but if you know of some that'd be great too. 
+
+Thanks",actress,actor,nan,nan,no,42,8,
+333,"Please give me a list of any famous funny actor and actress that you can think of. They can be from any past movies or present movie he/she played in, but they still have to be alive.
+Update: they can also be in any past or present TV shows.",famous,actor,JJ,NN,no,2,10,
+334,"Please give me a list of any famous funny actor and actress that you can think of. They can be from any past movies or present movie he/she played in, but they still have to be alive.
+Update: they can also be in any past or present TV shows.",funny,actor,JJ,NN,no,1,1,
+335,"Please give me a list of any famous funny actor and actress that you can think of. They can be from any past movies or present movie he/she played in, but they still have to be alive.
+Update: they can also be in any past or present TV shows.",past,movie,JJ,NN,no,4,1,
+336,"Please give me a list of any famous funny actor and actress that you can think of. They can be from any past movies or present movie he/she played in, but they still have to be alive.
+Update: they can also be in any past or present TV shows.",present,movie,JJ,NN,no,1,1,
+337,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",young,actor,JJ,NNS,no,3,15,
+338,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",female,actor,NN,NNS,yes,2,4,
+339,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",teen,actor,JJ,NNS,no,1,5,
+340,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",young,female,JJ,NN,no,1,2,
+341,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",teen,female,JJ,NN,no,1,2,
+342,"No older then 17 if possible. Just a random list of young female teen actors. I'm not a perv btw, I'm 13 F too lol. There is just something I want to do with the list personally.",actor,female,NNS,NN,yes,2,4,
+343,"Can someone give me a list of Catholic actors, singers, and sports figures? And several places still have people like Madonna listed, and she clearly is NOT Catholic anymore...so an updated list of Catholic actors, actresses, singers, musicians, sports figures, and maybe authors too. 
+
+Thank you!!!!!",catholic,actor,JJ,NNS,no,1,3,
+344,"Can someone give me a list of Catholic actors, singers, and sports figures? And several places still have people like Madonna listed, and she clearly is NOT Catholic anymore...so an updated list of Catholic actors, actresses, singers, musicians, sports figures, and maybe authors too. 
+
+Thank you!!!!!",figure,sport,NNS,NNS,no,1,3,
+345,"Can someone give me a list of Catholic actors, singers, and sports figures? And several places still have people like Madonna listed, and she clearly is NOT Catholic anymore...so an updated list of Catholic actors, actresses, singers, musicians, sports figures, and maybe authors too. 
+
+Thank you!!!!!",catholic,actor,JJ,NNS,no,1,3,
+346,"Can someone give me a list of Catholic actors, singers, and sports figures? And several places still have people like Madonna listed, and she clearly is NOT Catholic anymore...so an updated list of Catholic actors, actresses, singers, musicians, sports figures, and maybe authors too. 
+
+Thank you!!!!!",figure,sport,NNS,NNS,no,1,3,
+347,"What famous actors don't have perfect teeth? I've googled it and didn't find too good of a list, so I was just wondering if you knew of any?
+Update: Thanks for the quick reply Chrissie, but I forgot to put this in. Any actor with non perfect teeth going into the business?",famous,actor,JJ,NN,no,51,10,
+348,"What famous actors don't have perfect teeth? I've googled it and didn't find too good of a list, so I was just wondering if you knew of any?
+Update: Thanks for the quick reply Chrissie, but I forgot to put this in. Any actor with non perfect teeth going into the business?", in.,actor,nan,NN,no,62,1,
+349,i wanna get a list of white actors with black decent,white,actor,JJ,NNS,no,1,3,
+350,Cold some give me a list of actors (good actors) form the UK,good,actor,JJ,NNS,no,2,11,
+351,"there are seldom bollywood actors gay, cos in india gay is despised",bollywood,actor,JJ,NNS,no,1,5,
+352,list actors who died in such a young age like in their 20 yrs old and up through 50 yrs old,list,actor,NN,NNS,no,1,7,
+353,"5 stars to the most actors and/or actresses. okay so i was wondering if someone could give three actresses and two actors. soooo does anyone know of an actress who looks good with long blonde hair and blue eyes and could pass for a 16 year old (need as many actresses as possible) and another actress who has long brown hair, dark brown eyes and could also pass for a 16 year old (need as many as possible) and the last actress needs to look good with shoulder length black hair, dark brown almost black looking eyes and is chinese or japanese.... forget it just name off any asian actress you know (that can speak english well enough to understand her) thats all the actresses (not everything hast to be exact just the most similar you can find) 
+
+and the actors i need 
+an actor who has short brown hair, brown eyes and could pass for a 16-18 year old and another actor who looks like he's in his 50's-60's and could play a creepy old guy. (and the same above nothing has to be exact) and 5 stars to the most actors and/or actresses",16-18,year,JJ,NN,no,125,1,
+354,"Who are some ""good"" Actors that are not as well known, but but should be???",good,actor,JJ,NNS,no,2,11,
+355,"So hey, I'm writing a joined story with a friend on wattpad, where you can pick a cast list for your story. 
+We need to know some young celebrities (boys only) but ones that aren't so extremely popular (so no one like Justin Bieber, One Direction, Logan Lerman, Alex Pettyfer, etc.) 
+Does anybody know any? Preferably quite good looking, if that's not too much to ask XD",young,celebrity,JJ,NNS,no,1,1,
+356,"like in their 20s. 
+ive been told that most actors and actresses have started acting since they were like 10 or something and to be successful you have to start when you are young but that is not true since there are some successful actors like channing tatum and abunch of others that didnt start acting till later. 
+(like late teens and later) 
+
+im just curious here.. 
+thanks!",successful,actor,JJ,NNS,no,16,1,
+357,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",b-list,actor,JJ,NNS,no,1,3,
+358,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",age,female,NN,NN,no,3,2,
+359,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female "," 17,",female,nan,NN,no,58,2,
+360,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",brunnete,female,JJ,NN,no,2,1,
+361,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ","
+2.",female,nan,NN,no,58,1,
+362,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",age,female,NN,NN,no,3,2,
+363,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female "," 17,",female,nan,NN,no,58,2,
+364,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",blonde,male,NN,NN,no,5,2,
+365,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ","
+3.",male,nan,NN,no,58,1,
+366,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",age,male,NN,NN,no,17,2,
+367,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female "," 17,",male,nan,NN,no,58,2,
+368,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",blonde,male,NN,NN,no,5,2,
+369,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ","
+4.",male,nan,NN,no,58,1,
+370,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female ",age,male,NN,NN,no,17,2,
+371,"I am looking for A or B-list actors that fit the following discriptions 
+1. Age 17, female, brunnete 
+2. Age 17, female, blonde 
+3. Age 17, male, short hair, blonde 
+4. Age 17, male, long hair, brunnete 
+5. Age 14, brown hair, large chest, female "," 17,",male,nan,NN,no,58,2,
